@@ -1,6 +1,5 @@
 # MIL_colon_cancer_dataset
 How to run:  
-* create a folder called "checkpoints"  
 * unzip "newdata.zip"  
 * run ```python main.py```  
 
